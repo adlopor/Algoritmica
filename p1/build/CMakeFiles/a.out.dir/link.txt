@@ -1,0 +1,1 @@
+/usr/local/opt/gcc-5.3.0-32/bin/c++  -std=c++11 -O3  -rdynamic CMakeFiles/a.out.dir/main.cpp.o CMakeFiles/a.out.dir/ClaseTiempo.cpp.o CMakeFiles/a.out.dir/funciones.cpp.o CMakeFiles/a.out.dir/sistemaEcuaciones.cpp.o  -o a.out 

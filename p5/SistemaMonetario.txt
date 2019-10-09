@@ -1,0 +1,15 @@
+1 Moneda
+2 Moneda
+5 Moneda
+10 Moneda
+20 Moneda
+50 Moneda
+100 Moneda
+200 Moneda
+500 Billete
+1000 Billete
+2000 Billete
+5000 Billete
+10000 Billete
+20000 Billete
+50000 Billete

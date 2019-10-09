@@ -1,0 +1,3 @@
+/home/p42loora/tercero/primer_cuatri/algoritmica/p4/build/CMakeFiles/rebuild_cache.dir
+/home/p42loora/tercero/primer_cuatri/algoritmica/p4/build/CMakeFiles/edit_cache.dir
+/home/p42loora/tercero/primer_cuatri/algoritmica/p4/build/CMakeFiles/a.out.dir
